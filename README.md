@@ -52,7 +52,7 @@ ionic cordova build --release android
 ## Credenciales 
 
 - Firebase
-![myimage-alt-tag](https://github.com/wendysoto/proyecto_finalTopicos/blob/master/images/FirebaseCredenciales.jpeg)
+![myimage-alt-tag](https://github.com/SamantaGomez/Authentication-Login/blob/main/imagenes/8.jpeg)
 
 - API
 	http://www.omdbapi.com/
