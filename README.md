@@ -1,6 +1,10 @@
+# ESCUELA POLITÉCNICA NACIONAL
+
+* ING. JUAN PABLO ZALDUMBIDE 👨🏻‍🏫
+
 #  LOGIN CON GMAIL USANDO IONIC & FIREBASE
 
-INTEGRANTES DE GRUPO  :woman::woman::man::man: :man:
+INTEGRANTES DE GRUPO  👨‍💻👩‍💻 👨‍💻👩‍💻 👨‍💻
 - Amoguimba Jessica
 - Gómez Samanta
 - Guaras Ahilton
@@ -8,7 +12,7 @@ INTEGRANTES DE GRUPO  :woman::woman::man::man: :man:
 - Mendoza Joel
 
 
-# README #
+# INTRODUCCIÓN # 📝
 
 Este README contiene un explicativo del la aplicación de login con Gmail la misma que fue realizada en Ionic usando Angular y Firebase con autenticacion de Gmail.
 
@@ -26,28 +30,17 @@ npm install -g @ionic/cli
 ionic serve
 ionic serve -l
 
-- Generar nueva página
-ionic generate page nombrePage 
-
 - Crear el servicio
 ionic g service services/nombreservicio
 
 - Instalar Firebase
 npm install firebase @angular/fire --save
 
-- Cordova geolocalización
-ionic cordova plugin add cordova-plugin-geolocation
-npm install --save @ionic-native/geolocation
-
-- Generar Icono y SplashScreen
-ionic cordova resources
-
 - Intalar Cordova
 npm install -g ionic cordova
 
-- Generar APK (**Nota:** previo a la generación de la APK, agregar los paths correspondientes a SDK, JDK y Gradle en las variables de entorno > Variables del Sistema > PATH)
-ionic cordova build --release android
-
+- Generar APK 
+ionic cordova build android
 
 
 ```
