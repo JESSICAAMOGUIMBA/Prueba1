@@ -47,10 +47,7 @@ ionic cordova build android
 ## Credenciales 
 
 - Firebase
-![myimage-alt-tag](https://github.com/SamantaGomez/Authentication-Login/blob/main/imagenes/8.jpeg)
-
-- API
-	http://www.omdbapi.com/
+![myimage-alt-tag](https://github.com/SamantaGomez/Authentication-Login/blob/main/imagenes/credenciales.JPG)
 
 
 
@@ -58,64 +55,32 @@ ionic cordova build android
 
 - Base de datos
 
-| **Firebase Auth** :speech_balloon:| **Usuarios** :speech_balloon: | **Historial** :bust_in_silhouette: |
+| **Firebase Auth** :speech_balloon:| **Login** :speech_balloon: | **Transformar APK** :bust_in_silhouette: |
 | ------------- | ------------- | ------------- | 
-|![myimage-alt-tag](https://github.com/wendysoto/proyecto_finalTopicos/blob/master/images/firebase%20auth.JPG) |![myimage-alt-tag](https://github.com/wendysoto/proyecto_finalTopicos/blob/master/images/firebase_users.JPG) |![myimage-alt-tag](https://github.com/wendysoto/proyecto_finalTopicos/blob/master/images/firebase_historial.JPG)  |![myimage-alt-tag]|
+|![myimage-alt-tag](https://github.com/SamantaGomez/Authentication-Login/blob/main/imagenes/funcion_google.jpeg) |![myimage-alt-tag](https://github.com/SamantaGomez/Authentication-Login/blob/main/imagenes/11.jpeg) |![myimage-alt-tag](https://github.com/SamantaGomez/Authentication-Login/blob/main/imagenes/apk-1%20(1).jpeg)  |![myimage-alt-tag]|
 
 ## Interfaces
 
-- Usuario
-
-La aplicación nos permitirá iniciar sesión, en el caso de contar con una cuenta previamente creada. Caso contrario deberemos crear una.
-Se podrá buscar (películas, series, episodios) por título, además de visualizar la información de las películas.
-
-
-| **login** :speech_balloon: | **register** :bust_in_silhouette: | **movies** :clapper:|**movies details** :scroll:|
+La aplicación nos permitirá iniciar sesión usando la autenticación de Gmail, primero creamos una cuenta con Gmail y procedemos a iniciar sesión.
+| **Login** :speech_balloon: | **Register** :bust_in_silhouette: | **Seleccón Gmail** :clapper:|**movies details** :scroll:|
 | ------------- | ------------- | ------------- | ------------- |
-|![myimage-alt-tag](https://github.com/wendysoto/proyecto_finalTopicos/blob/master/images/login.JPG) |![myimage-alt-tag](https://github.com/wendysoto/proyecto_finalTopicos/blob/master/images/register.JPG)  |![myimage-alt-tag](https://github.com/wendysoto/proyecto_finalTopicos/blob/master/images/movies.JPG)  |![myimage-alt-tag](https://github.com/wendysoto/proyecto_finalTopicos/blob/master/images/movie_info.JPG) |
+|![myimage-alt-tag](https://github.com/SamantaGomez/Authentication-Login/blob/main/imagenes/pantalla_principal.jpeg) |![myimage-alt-tag](https://github.com/SamantaGomez/Authentication-Login/blob/main/imagenes/acceso.jpeg)  |![myimage-alt-tag](https://github.com/SamantaGomez/Authentication-Login/blob/main/imagenes/seleccion_de_correo.jpeg)  |![myimage-alt-tag](https://github.com/SamantaGomez/Authentication-Login/blob/main/imagenes/bienvenido_a_la_aplicacion.jpeg) |
 
-- Administrador
-
-El administrador podrá ver el historial de usuarios, modificar y eliminar estos.
-
-| **Users** :speech_balloon: | **Historial** :alarm_clock: |**Edit User** :black_nib:| **New User** :heavy_check_mark:|
-| ------------- | ------------- | ------------- |------------- |
-|![myimage-alt-tag](https://github.com/wendysoto/proyecto_finalTopicos/blob/master/images/users.JPG) |![myimage-alt-tag](https://github.com/wendysoto/proyecto_finalTopicos/blob/master/images/historial.JPG)  |![myimage-alt-tag](https://github.com/wendysoto/proyecto_finalTopicos/blob/master/images/edit_user.JPG)  |![myimage-alt-tag](https://github.com/wendysoto/proyecto_finalTopicos/blob/master/images/new_user.JPG)  |
-
-## Código:
-En la siguiente imagen se muestran las páginas creadas.
-![myimage-alt-tag](https://github.com/wendysoto/proyecto_finalTopicos/blob/master/images/paginas.JPG) 
-
-En el siguiente código se puede observar la conexión con la API
-![myimage-alt-tag](https://github.com/wendysoto/proyecto_finalTopicos/blob/master/images/servicio%20pelis.JPG)
-
+## Código lo más relevante:
 
 Esta imagen se puede apreciar la conexión con la Base de Datos.
-![myimage-alt-tag](https://github.com/wendysoto/proyecto_finalTopicos/blob/master/images/credenciales_fire.JPG)
+![myimage-alt-tag](https://github.com/SamantaGomez/Authentication-Login/blob/main/imagenes/codigo-credenciales.jpeg)
 
 A continuación se describen los métodos de Autenticación, Registro y Cierre de Sesión.
-![myimage-alt-tag](https://github.com/wendysoto/proyecto_finalTopicos/blob/master/images/firebase%20auth.JPG)
+![myimage-alt-tag](https://github.com/SamantaGomez/Authentication-Login/blob/main/imagenes/funcion_google.jpeg)
 
-
-Esta fracción de código representa el método de búsqueda de películas.
-![myimage-alt-tag](https://github.com/wendysoto/proyecto_finalTopicos/blob/master/images/movie_page.JPG)
-
-
-
-
-Este código representa los métodos de Geolocalización, e Historial de películas buscadas por usuario. Para este método es necesario el Id del usuario ya que de esta forma se podrá guardar su historial de búsquedas.
-![myimage-alt-tag](https://github.com/wendysoto/proyecto_finalTopicos/blob/master/images/movie_details.JPG)
 
 
 ## Video en Yotube :movie_camera:
  
+- https://youtu.be/OOVqKsdB9Jc
 
 
 ### Referencias ###
-    1. https://ionicacademy.com/ionic-4-app-api-calls/
-    2. https://www.youtube.com/watch?v=REgMMe2fYKA
-    3. https://www.nigmacode.com/ionic/Exportar-y-firmar-APK-en-Ionic
- 	4. https://gradle.org/install/
- 	5. https://ionicacademy.com/ionic-4-app-api-calls/
- 	6. http://www.omdbapi.com/
-   
+    1. https://www.youtube.com/watch?v=9zxH6EeJeIo&feature=youtu.be
+    
