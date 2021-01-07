@@ -12,7 +12,7 @@ INTEGRANTES DE GRUPO  👨‍💻👩‍💻 👨‍💻👩‍💻 👨‍💻
 - Mendoza Joel
 
 
-# INTRODUCCIÓN # 📝
+# INTRODUCCIÓN  📝
 
 Este README contiene un explicativo del la aplicación de login con Gmail la misma que fue realizada en Ionic usando Angular y Firebase con autenticacion de Gmail.
 
