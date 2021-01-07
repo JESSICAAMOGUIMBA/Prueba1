@@ -1,20 +1,22 @@
-#  Movie App
-## Proyecto final de Tópicos Especiales
-INTEGRANTES DE GRUPO  :woman::woman:
-- Andrea Quishpe
-- Wendy Soto
+#  LOGIN CON GMAIL USANDO IONIC & FIREBASE
+
+INTEGRANTES DE GRUPO  :woman::woman::man::man: :man:
+- Amoguimba Jessica
+- Gómez Samanta
+- Guaras Ahilton
+- Ibujés Gabriel
+- Mendoza Joel
 
 
 # README #
 
-En este README contiene un explicativo del la aplicación de realizada en Ionic acerca una aplicación con consumo de una API de películas.
+Este README contiene un explicativo del la aplicación de login con Gmail la misma que fue realizada en Ionic usando Angular y Firebase con autenticacion de Gmail.
 
 ## Acerca del proyecto ##
 ### Explicación ###
-El repositorio contiene el proyecto **proyecto_finalTopicos
 
 
-### Comandos
+### Comandos usados
 Ejecutaremos los siguientes comandos :
 ```
 - Instalar ionic 
